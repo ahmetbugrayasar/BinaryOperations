@@ -1,0 +1,16 @@
+C:\Users\90538\source\repos\BinaryOperations\bin\Debug\net5.0\BinaryOperations.exe
+C:\Users\90538\source\repos\BinaryOperations\bin\Debug\net5.0\BinaryOperations.deps.json
+C:\Users\90538\source\repos\BinaryOperations\bin\Debug\net5.0\BinaryOperations.runtimeconfig.json
+C:\Users\90538\source\repos\BinaryOperations\bin\Debug\net5.0\BinaryOperations.runtimeconfig.dev.json
+C:\Users\90538\source\repos\BinaryOperations\bin\Debug\net5.0\BinaryOperations.dll
+C:\Users\90538\source\repos\BinaryOperations\bin\Debug\net5.0\ref\BinaryOperations.dll
+C:\Users\90538\source\repos\BinaryOperations\bin\Debug\net5.0\BinaryOperations.pdb
+C:\Users\90538\source\repos\BinaryOperations\obj\Debug\net5.0\BinaryOperations.csproj.AssemblyReference.cache
+C:\Users\90538\source\repos\BinaryOperations\obj\Debug\net5.0\BinaryOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90538\source\repos\BinaryOperations\obj\Debug\net5.0\BinaryOperations.AssemblyInfoInputs.cache
+C:\Users\90538\source\repos\BinaryOperations\obj\Debug\net5.0\BinaryOperations.AssemblyInfo.cs
+C:\Users\90538\source\repos\BinaryOperations\obj\Debug\net5.0\BinaryOperations.csproj.CoreCompileInputs.cache
+C:\Users\90538\source\repos\BinaryOperations\obj\Debug\net5.0\BinaryOperations.dll
+C:\Users\90538\source\repos\BinaryOperations\obj\Debug\net5.0\ref\BinaryOperations.dll
+C:\Users\90538\source\repos\BinaryOperations\obj\Debug\net5.0\BinaryOperations.pdb
+C:\Users\90538\source\repos\BinaryOperations\obj\Debug\net5.0\BinaryOperations.genruntimeconfig.cache
